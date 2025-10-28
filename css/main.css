@@ -1221,7 +1221,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #ac2e44;
+    background: #8fffff;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -2717,12 +2717,12 @@ header.header {
 .posts-expand .post-title {
   font-size: 1.8rem;
   font-weight: 600;
-  color: #502c30;
+  color: #a83e4a;
   margin-bottom: 10px;
   transition: color 0.3s ease;
 }
 .posts-expand .post-title:hover {
-  color: #a60b0b;
+  color: #229ba4;
 }
 .posts-expand .post-body {
   color: #555;
@@ -2887,12 +2887,6 @@ body.home .post-block:hover {
   backdrop-filter: blur(15px);
   border-top: 1px solid rgba(255,255,255,0.15);
   color: #ecf0f1;
-}
-.highlight {
-  background: rgba(40,44,52,0.95) !important;
-  border-radius: 12px;
-  border: 1px solid rgba(255,255,255,0.15);
-  box-shadow: 0 4px 20px rgba(0,0,0,0.2);
 }
 ::-webkit-scrollbar {
   width: 10px;
